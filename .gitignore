@@ -1,0 +1,30 @@
+# -----> C
+# Executables
+*.exe
+*.out
+*.app
+program
+a.out
+
+# Object files
+*.o
+*.obj
+
+# Static libraries
+*.a
+*.lib
+
+# Debug symbols
+*.dSYM/
+
+# Compiled binary folders
+/bin/
+/build/
+/dist/
+
+# GCC / Clang temporary files
+*.gch
+
+# OS files
+.DS_Store
+Thumbs.db
