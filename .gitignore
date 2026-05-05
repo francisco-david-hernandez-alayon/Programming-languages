@@ -10,5 +10,14 @@
 *.exe *.dll *.obj
 /bin/ /obj/ /bin/
 
+# -----> Java
+*.class
+/bin/ /build/ /out/
+
 # -----> Python
 *.pyc __pycache__/
+
+# -----> Fortran
+*.out *.o *.mod
+/bin/ /build/ /dist/
+
