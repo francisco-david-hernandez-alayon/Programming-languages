@@ -9,3 +9,6 @@
 # -----> C#
 *.exe *.dll *.obj
 /bin/ /obj/ /bin/
+
+# -----> Python
+*.pyc __pycache__/
